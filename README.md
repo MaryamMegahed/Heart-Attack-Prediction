@@ -1,3 +1,3 @@
 ## Heart Attack Prediction
 
-[paper link] : (https://drive.google.com/drive/folders/1Y0Eq4zW3BbTF2za_Uv5qzk1EjJaRZCzA?usp=sharing)
+[paper link] (https://drive.google.com/file/d/1DwAg9rkLcI3TbvDyuEAwEe0mq-JnyDmo/view)
